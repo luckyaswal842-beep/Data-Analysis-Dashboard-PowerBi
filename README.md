@@ -22,6 +22,12 @@
 - 👥 Gender-based attrition comparison
 - 🧩 Department-level filtering (HR, R&D, Sales)
 - 📈 Trend analysis for employee exits
+## 💡 Recommendations
+- Improve compensation for lower salary bands
+- Focus on employee engagement in the first 2 years
+- Implement targeted retention strategies for high-risk roles
+- Conduct regular feedback and exit interviews
+- Provide career growth opportunities for mid-level employees
 ## 👀 Key Visuals
 - Donut chart: Attrition by education
 - Bar charts: Attrition by age, job role, and salary slab
