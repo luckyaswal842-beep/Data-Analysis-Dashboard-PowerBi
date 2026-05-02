@@ -10,7 +10,8 @@
 - DAX / Calculated Measures
 - Analytical Thinking
 ## 📂 Data Source
-- Dataset inspired by an HR analytics tutorial from YouTube  
+- Dataset inspired by an HR analytics tutorial from YouTube
+- Dataset 
 ## 🚀 Features & Highlights
 - 📌 Overview metrics (Total Employees, Attrition, Attrition Rate, Avg Age, Salary, Tenure)
 ## 📊 Attrition analysis by:
@@ -44,3 +45,7 @@
 - Laboratory Technicians and Sales Executives have the highest turnover
 - Majority of attrition occurs within the first few years of employment
 - Slightly higher attrition among male employees compared to female
+
+## Dashboard
+<img width="1013" height="570" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/917509cd-1ce4-4a6c-a287-d14a065b3837" />
+
