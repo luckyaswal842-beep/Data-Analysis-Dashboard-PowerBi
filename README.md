@@ -47,5 +47,6 @@
 - Slightly higher attrition among male employees compared to female
 
 ## Dashboard
-<img width="1013" height="570" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/917509cd-1ce4-4a6c-a287-d14a065b3837" />
+ <img width="1008" height="559" alt="HR Analysis Dashboard" src="https://github.com/user-attachments/assets/c4c23b40-646c-4cc7-8abe-2c419761471f" />
+
 
